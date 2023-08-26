@@ -1,0 +1,4 @@
+Introduction to Array
+Array and iteration
+XMLHttpRequest
+Hoisting & scope

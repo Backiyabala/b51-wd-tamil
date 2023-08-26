@@ -1,7 +1,6 @@
-console.log('hello world');
-console.log('hello world');
-console.log('hello world');
-console.log('hello world');
-console.log('hello world');
-console.log('hello world');
-console.log('hello world');
+function sayHello(name) {
+    console.log('hello', name);
+}
+
+sayHello('krish');
+sayHello('sathish');
